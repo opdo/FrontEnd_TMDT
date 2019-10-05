@@ -14,11 +14,9 @@ body {
     color: black!important;
   }
   .py-5{
-    background-color: blue;
+    background-color:#fed700;
   }
-header{
-    background-color: #fed700;
-}
+
 a{
     color: black!important;
 }
